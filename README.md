@@ -1,4 +1,4 @@
-# vbomb
+# ngen
 
 Установка:
 apt update && apt upgrade
