@@ -49,4 +49,4 @@ os.system("clear")
 print(f"{Fore.GREEN}Установка завершена! Запускаю программу...")
 
 time.sleep(4)
-os.system("python3 main.py") 
+os.system("python3 main.py")
